@@ -1,9 +1,9 @@
 # Hi, I'm John (Ted) Lee
-My friends call me Ted (it's a long story). What's consistant is my love and passion for programming.
+Everyone calls me Ted (it's a long story). What's consistant is my love and passion for programming.
 ## Coding Experience
-- Python, Java, Typescript, C++, C#, C, Assembly, HTML, CSS, JavaScript,
-- JUnit, JSON, Java Swing
-- Visual Studio, Git, Github, IntelliJ, XCode, Unity
+- Python, Java, Typescript, JavaScript, C/C++, C#, SQL, HTML/CSS, Bash, Powershell, R
+- Swing, JUnit, Pytest, Selenium
+- Git, Github, VS Code,Visual Studio, IntelliJ, XCode, Unity, Eclipse
 ## Currently Working On
 - My Unity game
 - Mobile viewing of Personal Website
