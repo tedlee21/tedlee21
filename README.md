@@ -1,5 +1,6 @@
 # Hi, I'm Ted Lee
 Some people also know me as John (it's a long story). What's consistant is my love and passion for programming.
+
 Come visit my website to see my recent projects! https://tedlee21.github.io/portfolio-site/
 
 ## Coding Experience
