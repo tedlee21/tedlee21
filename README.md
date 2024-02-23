@@ -5,7 +5,7 @@ Come visit my website to see my recent projects! https://tedlee21.github.io/port
 ## Coding Experience
 - Python, Java, Typescript, JavaScript, C/C++, C#, SQL, HTML/CSS, PHP, Bash, Powershell, R
 - Swing, JUnit, Pytest, Selenium
-- Git, Github, VS Code,Visual Studio, IntelliJ, XCode, Unity, Eclipse
+- Git, Github, VS Code, Visual Studio, IntelliJ, XCode, Unity, Eclipse
 ## Currently Working On
 - My Unity game
 - "Hands Off!" - my web game developed with phaser.js
