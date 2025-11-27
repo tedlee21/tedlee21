@@ -11,5 +11,4 @@ Come visit my website to see my recent projects! https://tedlee21.github.io/port
 - Full time student in my last year!
 - React Three Fiber rehaul of portfolio project
 - Production release of Room to Grow
-- Applying for SWE and PM new grad or internships for 2025!
 
